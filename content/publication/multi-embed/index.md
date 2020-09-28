@@ -19,7 +19,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "Annual Meeting of the Association for Computational Linguistics (ACL), 2019"
-#publication_short = "MIPR"
+#publication_short = "ACL"
 
 # Abstract and optional shortened version.
 # abstract = "A case study on factors that limit peformance of machine learning on biomedical images."
