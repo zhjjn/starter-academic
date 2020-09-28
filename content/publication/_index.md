@@ -11,5 +11,5 @@ view: 4
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: "Multiple character embeddings for Chinese word segmentation"
-  image: ""
+  image: "multi_embed.png"
 ---
