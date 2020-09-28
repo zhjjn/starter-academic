@@ -24,12 +24,14 @@ subtitle = ""
   order = "desc"
 
   # Filter posts by a taxonomy term.
-  # [content.filters]
-  #  tag = ""
-  #  category = ""
-  #  publication_type = ""
-  #  author = ""
-  #  exclude_featured = false
+  [content.filters]
+   tag = ""
+   category = ""
+   publication_type = ""
+   author = ""
+   exclude_featured = false
+   exclude_past = false
+   exclude_future = false
   
 [design]
   # Toggle between the various page layout types.
@@ -37,7 +39,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 1
+  view = 2
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -66,7 +68,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-# {{% alert note %}}
-# Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-# {{% /alert %}}
