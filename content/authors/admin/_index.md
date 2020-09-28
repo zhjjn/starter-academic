@@ -15,7 +15,7 @@ role: Ph.D. Student
 # Organizations/Affiliations
 organizations:
 - name: University of Illinois at Urbana-Champaign
-  url: ""
+  url: "https://illinois.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include natural language processing, machine learning and security.
