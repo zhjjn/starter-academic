@@ -1,6 +1,6 @@
 +++
 title = "Multiple Character Embeddings for Chinese Word Segmentation"
-date = "2019-03-08"
+date = "2019-06-09"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
@@ -36,9 +36,9 @@ selected = false
 # projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "https://arxiv.org/pdf/1808.04963.pdf"
-url_preprint = ""
-url_code = ""
+url_pdf = "https://www.aclweb.org/anthology/P19-2029.pdf"
+url_preprint = "https://arxiv.org/pdf/1808.04963.pdf"
+url_code = "https://github.com/zhjjn/Bi-LSTM-CRF-CWS"
 url_dataset = ""
 url_project = ""
 url_slides = ""
