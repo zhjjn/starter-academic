@@ -93,7 +93,7 @@ phone = "217-979-6782"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "1308 W Main St.", city = "Urbana", region = "CA", postcode = "61801", country = "United States", country_code = "US"}
+address = {street = "1308 W Main St.", city = "Urbana", region = "IL", postcode = "61801", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
