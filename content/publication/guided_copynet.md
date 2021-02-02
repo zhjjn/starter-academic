@@ -1,5 +1,5 @@
 +++
-title = "From Solving a Problem Boldly to Cutting the Gordian Knot: IdiomaticText Generation"
+title = "Idiomatic Sentence Paraphrasing"
 date = "2020-08-31"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
