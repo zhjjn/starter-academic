@@ -1,5 +1,5 @@
 +++
-title = "Idiomatic Sentence Paraphrasing"
+title = "From Solving a Problem Boldly to Cutting the Gordian Knot: Idiomatic Text Generation"
 date = "2020-08-31"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,7 +18,7 @@ authors = ["Jianing Zhou" , "Hongyu Gong" , "Suma Bhat"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In Submission"
+publication = "arxiv"
 #publication_short = "ACL"
 
 # Abstract and optional shortened version.
