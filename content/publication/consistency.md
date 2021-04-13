@@ -36,9 +36,9 @@ selected = false
 # projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "https://www.aclweb.org/anthology/P19-2029.pdf"
-url_preprint = "https://arxiv.org/pdf/1808.04963.pdf"
-url_code = "https://github.com/zhjjn/Bi-LSTM-CRF-CWS"
+url_pdf = "https://dl.acm.org/doi/abs/10.1145/3448139.3448161"
+url_preprint = ""
+url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
