@@ -36,8 +36,8 @@ selected = false
 # projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = ""
-url_preprint = ""
+url_pdf = "https://arxiv.org/pdf/2104.06541.pdf"
+url_preprint = "https://arxiv.org/pdf/2104.06541.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
