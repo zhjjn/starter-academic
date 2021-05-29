@@ -1,6 +1,6 @@
 +++
 title = "PIE: Parallel Idiomatic Expression Corpus for Idiomatic Sentence Generation and Paraphrasing"
-date = "2020-11-23"
+date = "2021-5-28"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
@@ -18,7 +18,7 @@ authors = ["Jianing Zhou" , "Hongyu Gong" , "Suma Bhat"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021)"
+publication = "The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021), 2021"
 #publication_short = "ACL"
 
 # Abstract and optional shortened version.
