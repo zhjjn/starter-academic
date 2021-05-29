@@ -18,7 +18,7 @@ authors = ["Jianing Zhou" , "Hongyu Gong" , "Suma Bhat"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In Submission"
+publication = "ACL21"
 #publication_short = "ACL"
 
 # Abstract and optional shortened version.
