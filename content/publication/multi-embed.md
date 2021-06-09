@@ -18,7 +18,7 @@ authors = ["Jianing Zhou" , "Jingkang Wang" , "Gongshen Liu"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Annual Meeting of the Association for Computational Linguistics (ACL), 2019"
+publication = "Annual Meeting of the Association for Computational Linguistics (ACL), SRW Workshop, 2019"
 #publication_short = "ACL"
 
 # Abstract and optional shortened version.
