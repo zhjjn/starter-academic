@@ -30,13 +30,13 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: University of Illinois at Urbana-Champaign
-    year: 2021
+    year: 2021-Present
   - course: MS in Computer Science
     institution: University of Illinois at Urbana-Champaign
-    year: 2019
+    year: 2019-2021
   - course: BSc in Information Security
     institution: Shanghai Jiao Tong University
-    year: 2015
+    year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
