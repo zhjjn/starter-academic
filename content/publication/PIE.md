@@ -36,7 +36,7 @@ selected = false
 # projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://github.com/zhjjn/starter-academic/blob/master/content/publication/6_Paper.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = "https://github.com/zhjjn/PIE.git"
