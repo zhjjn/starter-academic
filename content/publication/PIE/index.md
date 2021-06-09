@@ -1,6 +1,6 @@
 +++
 title = "PIE: Parallel Idiomatic Expression Corpus for Idiomatic Sentence Generation and Paraphrasing"
-date = "2021-05-28"
+date = "2021-05-14"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
