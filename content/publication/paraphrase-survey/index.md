@@ -18,7 +18,7 @@ authors = ["Jianing Zhou" , "Suma Bhat"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "EMNLP 2021"
+publication = "The 2020 Conference on Empirical Methods on Natural Language Processing (EMNLP'21)"
 #publication_short = "ACL"
 
 # Abstract and optional shortened version.
