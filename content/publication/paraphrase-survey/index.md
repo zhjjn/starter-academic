@@ -1,5 +1,5 @@
 +++
-title = "A Survey on Paraphrasing"
+title = "Paraphrase Generation: the State of the Art"
 date = "2021-05-25"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,7 +18,7 @@ authors = ["Jianing Zhou" , "Suma Bhat"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In Submission"
+publication = "EMNLP 2021"
 #publication_short = "ACL"
 
 # Abstract and optional shortened version.
