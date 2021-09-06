@@ -61,6 +61,8 @@ social:
 #   icon_pack: ai
 #   link: static/files/cv.pdf
 
+highlight_name: true
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
