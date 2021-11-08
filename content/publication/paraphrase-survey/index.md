@@ -36,7 +36,7 @@ selected = false
 # projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://aclanthology.org/2021.emnlp-main.414.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
