@@ -4,7 +4,7 @@ date = "2021-05-14"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
-authors = ["**Jianing Zhou**" , "Hongyu Gong" , "Suma Bhat"]
+authors = ["Jianing Zhou" , "Hongyu Gong" , "Suma Bhat"]
 
 # Publication type.
 # Legend:
@@ -36,7 +36,7 @@ selected = false
 # projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "https://github.com/zhjjn/starter-academic/blob/master/content/publication/6_Paper.pdf"
+url_pdf = "https://aclanthology.org/2021.mwe-1.5.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = "https://github.com/zhjjn/PIE.git"
