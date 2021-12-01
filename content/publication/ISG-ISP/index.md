@@ -18,7 +18,7 @@ authors = ["Jianing Zhou" , "Ziheng Zeng" , "Hongyu Gong" , "Suma Bhat"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "AAAI 2022"
+publication = "AAAI Conference on Artificial Intelligence (AAAI), 2022"
 #publication_short = "ACL"
 
 # Abstract and optional shortened version.
