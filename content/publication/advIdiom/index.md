@@ -1,6 +1,6 @@
 +++
 title = "Adversarial Test via ISG"
-date = "2021-05-25"
+date = "2021-12-31"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
