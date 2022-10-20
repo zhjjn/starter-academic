@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-I am a first year Ph.D. student in Computer Science studying under <a href="https://publish.illinois.edu/sumapbhat/research-group//">Suma Bhat</a> at the University of Illinois at Urbana-Champaign. Before joining UIUC, I got my bachelor’s degree from Shanghai Jiao Tong University in 2019. My interests lie broadly in the areas of natural language processing and machine learning.
+I am a third year Ph.D. student in Computer Science studying under <a href="https://publish.illinois.edu/sumapbhat/research-group//">Suma Bhat</a> at the University of Illinois at Urbana-Champaign. Before joining UIUC, I got my bachelor’s degree from Shanghai Jiao Tong University in 2019. My interests lie broadly in the areas of natural language processing and machine learning.
