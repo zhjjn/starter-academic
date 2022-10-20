@@ -4,7 +4,7 @@ date = "2022-10-07"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
-authors = ["Jianing Zhou" , "Vyom Thakkar", "Rachel Yudkowsky," , "Suma Bhat", "William F. Bond"]
+authors = ["Jianing Zhou" , "Vyom Thakkar", "Rachel Yudkowsky" , "Suma Bhat", "William F. Bond"]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ authors = ["Jianing Zhou" , "Vyom Thakkar", "Rachel Yudkowsky," , "Suma Bhat", "
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "The 2022 Conference on Empirical Methods on Natural Language Processing, LOUHI, 2022"
+publication = "The 2022 Conference on Empirical Methods on Natural Language Processing (EMNLP'22), LOUHI, 2022"
 #publication_short = "ACL"
 
 # Abstract and optional shortened version.
